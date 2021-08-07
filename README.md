@@ -4,4 +4,4 @@
 
 ## About The Project
 
-ALX full-stack engineer Repo.
+ALX full-stack engineer Repository.
