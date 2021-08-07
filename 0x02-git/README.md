@@ -1,3 +1,3 @@
 ## About the project
 
-The first project
+The first ALX project
